@@ -1,0 +1,7 @@
+names:
+- hayvan
+- kaza
+- tas
+nc: 3
+train: CDTP-2/train/images
+val: CDTP-2/valid/images
